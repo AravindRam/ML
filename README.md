@@ -1,4 +1,4 @@
-# ML
+# Machine Learning for Data Informatics
 
 This repository contains couple of assignments and a project as part of the Machine Learning coursework.
 
