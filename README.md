@@ -1,6 +1,6 @@
 # ML
 
-This repository contains a couple of assignments and a project as part of the Machine Learning coursework.
+This repository contains couple of assignments and a project as part of the Machine Learning coursework.
 
 **HW2** - Contains the homework description, source code, sample input and output for the implementation of K Means Clustering Algorithm in Python
 
